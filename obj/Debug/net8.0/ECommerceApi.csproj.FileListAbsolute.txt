@@ -1,0 +1,8 @@
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfo.cs
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahad.ali\Desktop\.Net Projects\ECommerceApi\obj\Debug\net8.0\ECommerceApi.sourcelink.json
